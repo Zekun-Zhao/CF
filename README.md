@@ -1,1 +1,2 @@
-# CF
+# CF 
+Computational Finance Notes
